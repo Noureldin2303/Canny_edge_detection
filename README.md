@@ -26,15 +26,15 @@ C. How canny edgy detectors remove unimportant edges or weak edges.
 
 ## You, Will, create a Class with the following functions
 
-•###  gaussianMask( parameters: Size of the mask, Sigma = 1) and return the mask
+• gaussianMask( parameters: Size of the mask, Sigma = 1) and return the mask
 
-•###  convolute (parameters: image, filter) and return the result of convoluting the filter 
+• convolute (parameters: image, filter) and return the result of convoluting the filter 
 
-•###  sobil(parameters: image) and return the image containing the edge 
+• sobil(parameters: image) and return the image containing the edge 
 
-•###  Prewitt (parameters: image) and return the image edge 
+• Prewitt (parameters: image) and return the image edge 
 
-•###  non-maxima suppression (parameter: Image, angels) and return the resulting image
+• non-maxima suppression (parameter: Image, angels) and return the resulting image
 
 • double threshold(parameter: Image) and return result image 
 
