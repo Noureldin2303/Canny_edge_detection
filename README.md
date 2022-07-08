@@ -3,13 +3,13 @@
 ## Canny Edge Detector For Simple Hand Posture Detection
  
 ### Step 1: Input Images:
-A. The dataset consists of more than one image; each image has a different hand sign.
-B. The user takes a picture of the hand to be tested either through the real-time orloaded image.
+1. The dataset consists of more than one image; each image has a different hand sign.
+2. The user takes a picture of the hand to be tested either through the real-time orloaded image.
 
 ### Step 2: Image Pre-processing
-A. The image is converted into grayscale
-B. Enhancement image using Filters technique (Smoothing filter, sharping filter, smooth then sharp, sharp then smoothed, other)
-C. Convert the grayscale image into a binary image.
+1. The image is converted into grayscale
+2. Enhancement image using Filters technique (Smoothing filter, sharping filter, smooth then sharp, sharp then smoothed, other)
+3. Convert the grayscale image into a binary image.
 
 ### Step3: Segmentation image from the background (how?)
 
