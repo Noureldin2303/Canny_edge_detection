@@ -11,7 +11,7 @@
 2. Enhancement image using Filters technique (Smoothing filter, sharping filter, smooth then sharp, sharp then smoothed, other)
 3. Convert the grayscale image into a binary image.
 
-### Step3: Segmentation image from the background (how?)
+### Step 3: Segmentation image from the background (how?)
 
 ### Step 4: Detect the border of the hand image
 1. Apply the following filter (Sobel, Prewitt, and canny), and which one is better?
