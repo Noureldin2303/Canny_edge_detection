@@ -1,8 +1,8 @@
 # Canny_edge_detection
 
-Canny Edge Detector For Simple Hand Posture Detection
+## Canny Edge Detector For Simple Hand Posture Detection
  
-Step 1: Input Images:
+### Step 1: Input Images:
 A. The dataset consists of more than one image; each image has a different hand sign.
 B. The user takes a picture of the hand to be tested either through the real-time orloaded image.
 
