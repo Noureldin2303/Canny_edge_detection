@@ -34,7 +34,7 @@
 
 • convolute (parameters: image, filter) and return the result of convoluting the filter 
 
-• sobil(parameters: image) and return the image containing the edge 
+• sobel(parameters: image) and return the image containing the edge 
 
 • Prewitt (parameters: image) and return the image edge 
 
