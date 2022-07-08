@@ -20,6 +20,10 @@
 
 ### Step 5: display one image containing the original image, the gray image, and the edge image.
 
+## Result
+
+![Result](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/result.PNG?raw=true)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project Requirements
