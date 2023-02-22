@@ -31,18 +31,24 @@
 ## You, Will, create a Class with the following functions
 
 • gaussianMask( parameters: Size of the mask, Sigma = 1) and return the mask
+![gaussianMask](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/gaussian.png)
 
 • convolute (parameters: image, filter) and return the result of convoluting the filter 
 
 • sobel(parameters: image) and return the image containing the edge 
+![sobel](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/sobil.png)
 
 • Prewitt (parameters: image) and return the image edge 
+![Prewitt](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/Prewitt.png)
 
 • non-maxima suppression (parameter: Image, angels) and return the resulting image
+![non-maxima suppression](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/non_maximaSuppression.png)
 
 • double threshold(parameter: Image) and return result image 
+![double threshold](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/double_threshold.png)
 
 • Edge Linking(parameter: Image) and return result image contain the edge
+![Edge Linking](https://github.com/Noureldin2303/Canny_edge_detection/blob/main/Images/EdgeLinking.png)
 
 • Canny (parameters: image) and return the edge 
 
